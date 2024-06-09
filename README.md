@@ -1,9 +1,12 @@
 # CLexIS2
 A corpus on lexical complexity prediction for academic texts in Ecuadorian Spanish.
 
-CLexIS2 is a corpus in Spanish to contribute to the advancement of research in the area of Lexical Simplification, specifically in the identification and prediction of complex words in computing studies.
+CLexIS2 is a corpus in Spanish that contributes to the advancement of research in the area of Lexical Simplification, specifically in the identification and prediction of complex words in computing studies.
 
 It contains 18,396 entries with words scored by complexity level in the range [0, 1], with the sentence where they appear as context.
+The corpus is available as unique file with some linguistic features included, or as a two separated files (train and test splits) for experiment replication.
+
+The corpus is released under the Creative Commons Attribution Share Alike 4.0 International license.
 
 Please, refer to the following publication when using the corpus:
 
